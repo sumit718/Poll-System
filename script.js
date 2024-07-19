@@ -1,9 +1,9 @@
 
 const options = [
-    {id:"option1", text:"JavaScript", votes:0},
-    {id:"option2", text:"Python", votes:0},
-    {id:"option3", text:"Java", votes:0},
-    {id:"option4", text:"C++", votes:0},
+    {id:"option1", text:"BJP", votes:0},
+    {id:"option2", text:"AAP", votes:0},
+    {id:"option3", text:"CONGRESS", votes:0},
+    {id:"option4", text:"BSP", votes:0},
 ];
 
 
